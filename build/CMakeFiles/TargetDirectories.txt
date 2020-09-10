@@ -1,0 +1,3 @@
+/home/daria/Documents/luatraining/build/CMakeFiles/rebuild_cache.dir
+/home/daria/Documents/luatraining/build/CMakeFiles/main.dir
+/home/daria/Documents/luatraining/build/CMakeFiles/edit_cache.dir
